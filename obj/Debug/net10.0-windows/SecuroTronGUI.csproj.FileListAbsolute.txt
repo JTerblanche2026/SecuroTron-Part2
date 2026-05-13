@@ -6,7 +6,6 @@ C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\bin\Debug\net10.0-windows\SecuroTro
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI_MarkupCompile.cache
-C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI_MarkupCompile.lref
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI.g.resources
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +18,5 @@ C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\refint\Se
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI.pdb
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI.genruntimeconfig.cache
 C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\ref\SecuroTronGUI.dll
+C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\obj\Debug\net10.0-windows\SecuroTronGUI_Content.g.cs
+C:\Users\Admin\ChatbotPart2\SecuroTron-Part2\bin\Debug\net10.0-windows\Assets\greeting.wav
